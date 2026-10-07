@@ -7,6 +7,6 @@
 - [REQUIREMENTS.md](REQUIREMENTS.md) — персоны, пользовательские истории, функциональные и нефункциональные требования, бэклог.
 - [research/](research/) — исследование 22 сайтов-аналогов (РФ и мир) и 16 платформ управления клубами.
 - [docs/PROJECT.md](docs/PROJECT.md) — описание проекта, задачи, процессы спортивных секций ([полная версия](https://claude.ai/code/artifact/5ca6f5a8-7a18-416d-a0c7-3d6b915a4d39)).
-- [ТЗ дизайнеру на прототип](https://claude.ai/code/artifact/79c4ddc8-0179-4f04-9f28-77c290704007).
+- [docs/design-brief.md](docs/design-brief.md) — подробный бриф для дизайнера: тон, референсы, экраны, компоненты, формат хендоффа.
 
 Стек: [TECH-STACK.md](TECH-STACK.md).
